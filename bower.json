@@ -1,0 +1,20 @@
+{
+  "name": "knockout.punches",
+  "homepage": "https://github.com/JonathonRichardson/bower-knockout.punches-shim",
+  "authors": [
+    "mbest"
+  ],
+  "description": "A collection of enhanced binding syntaxes using Knockout",
+  "main": "dist/knockout.punches.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "^3.4.1"
+  }
+}
